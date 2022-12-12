@@ -1,0 +1,11 @@
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\bin\Debug\leito de caotao de asseso.exe.config
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\bin\Debug\leito de caotao de asseso.exe
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\bin\Debug\leito de caotao de asseso.pdb
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\obj\Debug\leito de caotao de asseso.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\obj\Debug\leito de caotao de asseso.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\obj\Debug\leito_de_caotao_de_asseso.Form1.resources
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\obj\Debug\leito_de_caotao_de_asseso.Properties.Resources.resources
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\obj\Debug\leito de caotao de asseso.csproj.GenerateResource.cache
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\obj\Debug\leito de caotao de asseso.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\obj\Debug\leito de caotao de asseso.exe
+C:\Users\super\source\repos\leito de caotao de asseso\leito de caotao de asseso\obj\Debug\leito de caotao de asseso.pdb
